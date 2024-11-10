@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/InvincibleThinker/static-blog-post-card.git
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://static-blog-post-card.vercel.app/
 
 ## My process
 
